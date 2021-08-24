@@ -1,2 +1,2 @@
-# CDE2021_TransferLearning
-CDE 2021 Conference Tutorial: Transfer Learning for Image Classification
+# 한국CDE학회 2021 하계학술대회 튜토리얼
+전이학습을 이용한 이미지 분류
